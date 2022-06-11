@@ -1,0 +1,18 @@
+body{
+ background-color:aquamarine;
+}
+
+#heading{
+    background-color: chocolate;
+    font-size: 40px ;
+    color :aqua;
+}
+#welcome{
+    color :rgb(243, 228, 17);
+    font-family:"sans-serif" ;
+    background-color: blue;
+}
+b{
+    background-color: rgb(231, 25, 187);
+    color:wheat;
+}
